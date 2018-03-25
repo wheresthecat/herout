@@ -1,6 +1,4 @@
-/**
-Vytvořte soubor znaky.txt, ve kterém budou náhodné znaky. Tento soubor čtěte po znacích v cyklu do-while. 
-Je-li přečtený znak "q" , pak ukončete program.
+/** znak "q" , pak ukončete program.
 Je-li znak "0", pak vypište: Byla to nula.
 Je-li znak 1, pak vypište: Byla to jednička.
 Testuje EOF  a použijte switch.

@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
 	for(int i = 1; i <= 20; i++)
 	{
 		double output = (double)PI * i;
-		fprintf(fileWrite, "%.2lf\n", output);
+		fprintf(fileWrite, "$%.2lf\n", output);
 	}
 	
 
